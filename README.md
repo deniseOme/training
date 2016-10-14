@@ -1,2 +1,2 @@
 # training
-Slides, exercises and answers (workshops)
+Slides, exercises and answers (Open Targets workshops)
