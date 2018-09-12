@@ -1,4 +1,4 @@
-# training
+# Training
 Open Targets workshops: slides, exercises and answers from the most recent workshop.
 For a full list of Open Targets Outreach activities, please check https://www.targetvalidation.org/outreach.
 
